@@ -54,7 +54,7 @@ Compares the size of captured traffic against crafted test files (varying in siz
 
 ## Evaluated Devices
 
-We evaluated NASchecker on 12 commercial NAS devices purchased between June 2024 and November 2025. All devices were running the latest firmware available at the time of purchase. Device identities are anonymized; refer to Table IV of the paper for the full manufacturer-to-device mapping.
+We evaluated NASchecker on 12 commercial NAS devices purchased between June 2024 and November 2025. All devices were running the latest firmware available at the time of purchase. Device identities are anonymized.
 
 | Device ID | Manufacturer | Firmware Version  | Android Client |
 |-----------|--------------|-------------------|----------------|
@@ -121,21 +121,6 @@ Selected CVEs:
 
 ---
 
-## Citation
-
-If you use NASchecker in your research, please cite:
-
-```bibtex
-@article{ren2026naschecker,
-  title     = {{NASchecker}: Automatically Identifying the Performance,
-               Security, and Privacy Issues of {NAS} Devices},
-  author    = {Ren, Guangyue and Wang, Jincheng and Yu, Le and Han, Liping
-               and Hu, Mingzhe and Chen, Wei and Liu, Tingting and
-               Luo, Xiapu and Sun, Guozi},
-  journal   = {IEEE Internet of Things Journal},
-  year      = {2026}
-}
-```
 
 ---
 
