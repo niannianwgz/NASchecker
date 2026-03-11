@@ -96,18 +96,18 @@ We evaluated NASchecker on 12 commercial NAS devices purchased between June 2024
 | Memory Corruption                     | 4 / 12          |
 | Improper Access Control               | 11 / 12         |
 
-**CVE / NVDB Assignments**: 20 CVEs and 6 NVDB entries in total, of which **15 are rated high severity**.
+**CVE / NVDB Assignments**: 20 CVEs and 6 NVDB entries in total, of which **16 are rated high severity**.
 
 Selected CVEs:
 
 | Vulnerability Type    | CVE ID              | Severity |
 |-----------------------|---------------------|----------|
-| Command Injection     | CVE-2025-30247      | High     |
 | Command Injection     | CVE-2025-14106      | High     |
 | Command Injection     | CVE-2025-14107      | High     |
 | Command Injection     | CVE-2025-14108      | High     |
+| Command Injection     | CVE-2025-14188      | High     |
 | Memory Corruption     | CVE-2025-14187      | High     |
-| Memory Corruption     | CVE-2025-14188      | High     |
+| Memory Corruption     | CVE-2025-14708      | High     |
 | Improper Access Control | CVE-2025-14593    | High     |
 
 ### Privacy
