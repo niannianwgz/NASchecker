@@ -231,9 +231,4 @@ If you use NASchecker or this dataset in your research, please cite:
 ```
 
 ---
-
-## License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
 > The `captures/` directory contains traffic captures for all 12 tested devices (D1–D12).
